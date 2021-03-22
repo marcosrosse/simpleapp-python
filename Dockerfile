@@ -1,6 +1,6 @@
 FROM python:3
 
-ENV Code "1337" 
+ENV Code 1337 
 
 WORKDIR /usr/src/app
 
