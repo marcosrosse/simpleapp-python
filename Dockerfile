@@ -1,6 +1,6 @@
 FROM python:3
 
-ENV Code devops challenge 
+ENV Code "1337" 
 
 WORKDIR /usr/src/app
 
